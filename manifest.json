@@ -9,7 +9,7 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "\\pwa\\chrome-icon\\chrome-icon-144.png",
+      "src": "pwa\\chrome-icon\\chrome-icon-144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
