@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "static/js/app.562a4988.chunk.js",
-    "app.js.map": "static/js/app.562a4988.chunk.js.map",
-    "runtime~app.js": "static/js/runtime~app.34c76111.js",
-    "runtime~app.js.map": "static/js/runtime~app.34c76111.js.map",
-    "static/js/2.de863c84.chunk.js": "static/js/2.de863c84.chunk.js",
-    "static/js/2.de863c84.chunk.js.map": "static/js/2.de863c84.chunk.js.map",
-    "favicon-16.png": "favicon-16.png",
-    "favicon-32.png": "favicon-32.png",
-    "favicon.ico": "favicon.ico",
-    "index.html": "index.html",
-    "manifest.json": "manifest.json",
-    "serve.json": "serve.json",
-    "static/media/Moog-Logo.png": "static/media/Moog-Logo.cfa76b55.png"
+    "app.js": "/static/js/app.5e63527f.chunk.js",
+    "app.js.map": "/static/js/app.5e63527f.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.34c76111.js",
+    "runtime~app.js.map": "/static/js/runtime~app.34c76111.js.map",
+    "static/js/2.780274ce.chunk.js": "/static/js/2.780274ce.chunk.js",
+    "static/js/2.780274ce.chunk.js.map": "/static/js/2.780274ce.chunk.js.map",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/media/Moog-Logo.png": "/static/media/Moog-Logo.cfa76b55.png"
   },
   "entrypoints": [
     "static/js/runtime~app.34c76111.js",
-    "static/js/2.de863c84.chunk.js",
-    "static/js/app.562a4988.chunk.js"
+    "static/js/2.780274ce.chunk.js",
+    "static/js/app.5e63527f.chunk.js"
   ]
 }
