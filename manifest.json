@@ -1,6 +1,6 @@
 {
   "background_color": "#ffffff",
-  "description": "This app is used to approve / reject the travel authorization request.",
+  "description": "This app is used to approve or reject the travel authorization request.",
   "display": "standalone",
   "lang": "en",
   "name": "TAF-PoC",
